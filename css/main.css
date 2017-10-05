@@ -30,7 +30,6 @@ nav ul {
   background-color: #b58900;
 } 
 
-
 a:not(.no-highlight) {
   background-color: #719e07;
 }
@@ -64,4 +63,3 @@ a[rel="external"] {
 .dfn strong {
   color: #fff;
 }
-
